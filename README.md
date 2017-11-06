@@ -1,5 +1,5 @@
 # Brick-Breaker
-An Arkanoid style brick breaking game made using Unity 5. 
+An Arkanoid style brick breaking game made using Unity 5. </br>
 The start screen </br>
 ![Start Screen](https://github.com/swert7662/Brick-Breaker/blob/master/Brick%20Breaker/Screenshots/startScreen.png)
 Level 1 </br>
